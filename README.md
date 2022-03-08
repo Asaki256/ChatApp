@@ -1,14 +1,23 @@
-# firebase_chat_app
-A new Flutter project.
+# ChatApp
+Webで動作する簡易的なチャットアプリ。
+Flutterの学習を目的として作成した。
 
-## Getting Started
-This project is a starting point for a Flutter application.
+[チャットアプリのリンクはこちら](https://firestorechatapp-35834.web.app/#/)
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 使用した言語
+* Dart
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 使用したフレームワーク
+* Flutter
+
+### その他
+* Firebase Hosting
+* Firebase Authentication
+* Firestore Database
+
+<br>
+
+### 参考にしたサイト
+https://www.flutter-study.dev/
